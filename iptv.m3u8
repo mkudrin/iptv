@@ -1139,7 +1139,7 @@ http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF008PL/index.m3u8
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF009PL/index.m3u8
 #EXTINF:0,SUPER POLSAT HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF010PL/index.m3u8
-#EXTINF:0,Kino Polska HD PL
+#EXTINF:20,Kino Polska HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF011PL/index.m3u8
 #EXTINF:0,FOX HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF012PL/index.m3u8
@@ -1175,7 +1175,7 @@ http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO006X/index.m3u8
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO007X/index.m3u8
 #EXTINF:0,Penthouse Quickies HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO026X/index.m3u8
-#EXTINF:0,KinoXXX
+#EXTINF:39,KinoXXX
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO027X/index.m3u8
 #EXTINF:0,Redlight HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO028X/index.m3u8
