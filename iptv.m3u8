@@ -1,1239 +1,1219 @@
 #EXTM3U
-#EXTINF:-1 group-title="Эфирные",Первый канал HD
+#EXTINF:20,Первый канал HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA11W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",Первый канал
+#EXTINF:0,Первый канал
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA22W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",Россия 1 HD
+#EXTINF:0,Россия 1 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA33W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",Россия 1
+#EXTINF:0,Россия 1
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA44W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",НТВ HD
+#EXTINF:0,НТВ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA15W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",НТВ
+#EXTINF:0,НТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA26W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",РЕН ТВ HD
+#EXTINF:0,РЕН ТВ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA37W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",РЕН ТВ
+#EXTINF:0,РЕН ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA48W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",Мир
+#EXTINF:0,Мир
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA19W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",Россия 24
+#EXTINF:0,Россия 24
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1233W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",ТВ Центр
+#EXTINF:0,ТВ Центр
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA311W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",Звезда
+#EXTINF:0,Звезда
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA412W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",ОТР
+#EXTINF:0,ОТР
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA113W/index.m3u8
-#EXTINF:-1 group-title="Эфирные",Пятый канал
+#EXTINF:0,Пятый канал
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA214W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Дом Кино
+#EXTINF:0,Дом Кино
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA416W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Дом кино Премиум HD
+#EXTINF:0,Дом кино Премиум HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA117W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Победа HD
+#EXTINF:0,Победа HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA319W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",День Победы
+#EXTINF:0,День Победы
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA321W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",TV 1000 HD
+#EXTINF:0,TV 1000 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA420W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",TV 1000 Action HD
+#EXTINF:0,TV 1000 Action HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA121W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",TV 1000 Русское кино HD
+#EXTINF:0,TV 1000 Русское кино HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA222W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",ViP Premiere
+#EXTINF:0,ViP Premiere
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA323W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",ViP Megahit
+#EXTINF:0,ViP Megahit
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA424W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",ViP Comedy
+#EXTINF:0,ViP Comedy
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA125W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Комедия
+#EXTINF:0,Комедия
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA133W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Любимое Кино
+#EXTINF:0,Любимое Кино
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA335W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Hollywood HD
+#EXTINF:0,Hollywood HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA137W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Hollywood
+#EXTINF:0,Hollywood
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA238W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Наше крутое HD
+#EXTINF:0,Наше крутое HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA339W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Страшное HD
+#EXTINF:0,Страшное HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA445W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",НСТ
+#EXTINF:0,НСТ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA440W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Ultra HD Cinema 4K
+#EXTINF:0,Ultra HD Cinema 4K
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA141W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Криминальное HD
+#EXTINF:0,Криминальное HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA242W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",TV XXI Век
+#EXTINF:0,TV XXI Век
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA444W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Иллюзион +
+#EXTINF:0,Иллюзион +
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA145W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Русский Иллюзион
+#EXTINF:0,Русский Иллюзион
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA246W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Классика Кино
+#EXTINF:0,Классика Кино
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA448W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Советское кино
+#EXTINF:0,Советское кино
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA149W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Bollywood HD
+#EXTINF:0,Bollywood HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA250W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Русский роман HD
+#EXTINF:0,Русский роман HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA452W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Русский бестселлер
+#EXTINF:0,Русский бестселлер
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA153W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Русский детектив
+#EXTINF:0,Русский детектив
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA254W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Epic drama
+#EXTINF:0,Epic drama
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA259W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",FilmBox
+#EXTINF:0,FilmBox
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA355W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Cinema
+#EXTINF:0,Cinema
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA157W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Paramount Comedy HD
+#EXTINF:0,Paramount Comedy HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA258W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",A1 HD
+#EXTINF:0,A1 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA359W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",A2 HD
+#EXTINF:0,A2 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA460W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Amedia Hit SD
+#EXTINF:0,Amedia Hit SD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA161W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Amedia Hit HD
+#EXTINF:0,Amedia Hit HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA262W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Amedia Premium SD
+#EXTINF:0,Amedia Premium SD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA363W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Amedia Premium HD
+#EXTINF:0,Amedia Premium HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA464W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",ViP Serial
+#EXTINF:0,ViP Serial
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA165W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",FOX HD
+#EXTINF:0,FOX HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA266W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Fox Life HD
+#EXTINF:0,Fox Life HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA367W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Sony Channel HD
+#EXTINF:0,Sony Channel HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA468W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Sony Sci-Fi
+#EXTINF:0,Sony Sci-Fi
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA270W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Sony Turbo
+#EXTINF:0,Sony Turbo
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA371W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Мир сериала
+#EXTINF:0,Мир сериала
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA472W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",О!кино
+#EXTINF:0,О!кино
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA173W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",SHOT TV
+#EXTINF:0,SHOT TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA274W/index.m3u8
-
-#EXTINF:-1 group-title="Фильмовые",Ретро
+#EXTINF:0,Ретро
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA177W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Дорама
+#EXTINF:0,Дорама
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA278W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция
+#EXTINF:0,Мосфильм. Золотая коллекция
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1557W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Киносат
+#EXTINF:0,Киносат
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2558W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Наш кинопоказ HD
+#EXTINF:0,Наш кинопоказ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1561W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Про любовь HD
+#EXTINF:0,Про любовь HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2562W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Блокбастер HD
+#EXTINF:0,Блокбастер HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3563W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Камеди HD
+#EXTINF:0,Камеди HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4564W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Хит HD
+#EXTINF:0,Хит HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1565W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Наше Мужское HD
+#EXTINF:0,Наше Мужское HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2566W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кинопоказ HD
+#EXTINF:0,Кинопоказ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3567W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Шокирующее HD
+#EXTINF:0,Шокирующее HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO001F/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Комедийное HD
+#EXTINF:0,Комедийное HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO002F/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Премиальное HD
+#EXTINF:0,Премиальное HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO003F/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Остросюжетное HD
+#EXTINF:0,Остросюжетное HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO004F/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",КиноДжем 1 HD
+#EXTINF:0,КиноДжем 1 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO005F/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",КиноДжем 2 HD
+#EXTINF:0,КиноДжем 2 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO006F/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",КиноМеню
+#EXTINF:0,КиноМеню
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3518W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Adventure
+#EXTINF:0,VF Adventure
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA351W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Classic
+#EXTINF:0,VF Classic
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3568W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Классика
+#EXTINF:0,VF Классика
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3569W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Фильмы СССР
+#EXTINF:0,VF Фильмы СССР
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3571W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Ужасы
+#EXTINF:0,VF Ужасы
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3572W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Катастрофы
+#EXTINF:0,VF Катастрофы
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3573W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Премьера
+#EXTINF:0,VF Премьера
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3574W/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Premiere
+#EXTINF:0,VF Premiere
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3575W/index.m3u8
-#EXTINF:-1 group-title="Детские",FAN HD
+#EXTINF:0,FAN HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA379W/index.m3u8
-#EXTINF:-1 group-title="Детские",Карусель
+#EXTINF:0,Карусель
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2178W/index.m3u8
-#EXTINF:-1 group-title="Детские",Nicktoons
+#EXTINF:0,Nicktoons
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3179W/index.m3u8
-#EXTINF:-1 group-title="Детские",VF Disney
+#EXTINF:0,VF Disney
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4180W/index.m3u8
-#EXTINF:-1 group-title="Детские",Мульт
+#EXTINF:0,Мульт
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1181W/index.m3u8
-#EXTINF:-1 group-title="Детские",Уникум
+#EXTINF:0,Уникум
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2182W/index.m3u8
-#EXTINF:-1 group-title="Детские",Радость Моя
+#EXTINF:0,Радость Моя
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3183W/index.m3u8
-#EXTINF:-1 group-title="Детские",Tiji
+#EXTINF:0,Tiji
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4184W/index.m3u8
-#EXTINF:-1 group-title="Детские",Cartoon Network HD
+#EXTINF:0,Cartoon Network HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1185W/index.m3u8
-#EXTINF:-1 group-title="Детские",Детский Мир
+#EXTINF:0,Детский Мир
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2186W/index.m3u8
-#EXTINF:-1 group-title="Детские",Мультимузыка
+#EXTINF:0,Мультимузыка
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3187W/index.m3u8
-#EXTINF:-1 group-title="Детские",JimJam
+#EXTINF:0,JimJam
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4188W/index.m3u8
-#EXTINF:-1 group-title="Детские",Gulli Girl
+#EXTINF:0,Gulli Girl
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1189W/index.m3u8
-#EXTINF:-1 group-title="Детские",Nick Jr.
+#EXTINF:0,Nick Jr.
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2190W/index.m3u8
-#EXTINF:-1 group-title="Детские",Baby TV
+#EXTINF:0,Baby TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3191W/index.m3u8
-#EXTINF:-1 group-title="Детские",Cortoonito
+#EXTINF:0,Cortoonito
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4192W/index.m3u8
-#EXTINF:-1 group-title="Детские",О!
+#EXTINF:0,О!
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1193W/index.m3u8
-#EXTINF:-1 group-title="Детские",В гостях у сказки
+#EXTINF:0,В гостях у сказки
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2194W/index.m3u8
-#EXTINF:-1 group-title="Детские",Мультимания
+#EXTINF:0,Мультимания
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4196W/index.m3u8
-#EXTINF:-1 group-title="Детские",Ani
+#EXTINF:0,Ani
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1197W/index.m3u8
-#EXTINF:-1 group-title="Детские",Смайлик ТВ HD
+#EXTINF:0,Смайлик ТВ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2198W/index.m3u8
-#EXTINF:-1 group-title="Детские",СТС Kids HD
+#EXTINF:0,СТС Kids HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3199W/index.m3u8
-#EXTINF:-1 group-title="Детские",Мульт HD
+#EXTINF:0,Мульт HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4200W/index.m3u8
-#EXTINF:-1 group-title="Детские",Nickelodeon HD
+#EXTINF:0,Nickelodeon HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1201W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+#EXTINF:0,ТНТ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA480W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ
+#EXTINF:0,ТНТ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA181W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС
+#EXTINF:0,СТС
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA282W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС Love
+#EXTINF:0,СТС Love
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA383W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Пятница!
+#EXTINF:0,Пятница!
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA484W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Супер
+#EXTINF:0,Супер
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA185W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ4
+#EXTINF:0,ТНТ4
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA286W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТВ 3
+#EXTINF:0,ТВ 3
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA387W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",2х2
+#EXTINF:0,2х2
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA488W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Бобёр
+#EXTINF:0,Бобёр
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA189W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Сарафан
+#EXTINF:0,Сарафан
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA290W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНОМЕР
+#EXTINF:0,ТНОМЕР
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA391W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Театр
+#EXTINF:0,Театр
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA492W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Калейдоскоп ТВ
+#EXTINF:0,Калейдоскоп ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA193W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
+#EXTINF:0,Анекдот ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA395W/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС HD
+#EXTINF:0,СТС HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO001R/index.m3u8
-#EXTINF:-1 group-title="Познавательные",ТАЙНА
+#EXTINF:0,ТАЙНА
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA375W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery Channel HD
+#EXTINF:0,Discovery Channel HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA197W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Investigation Discovery
+#EXTINF:0,Investigation Discovery
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA298W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",ID Investigation Discovery HD
+#EXTINF:0,ID Investigation Discovery HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA399W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery Science
+#EXTINF:0,Discovery Science
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4100W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",DTX HD
+#EXTINF:0,DTX HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1101W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat History HD
+#EXTINF:0,Viasat History HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2103W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",History HD
+#EXTINF:0,History HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2102W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",H2 HD
+#EXTINF:0,H2 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3103W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat Nature HD/History HD
+#EXTINF:0,Viasat Nature HD/History HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2106W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic HD
+#EXTINF:0,National Geographic HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3107W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Terra
+#EXTINF:0,Terra
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4108W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+#EXTINF:0,Nat Geo Wild HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1109W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Terra Incognita
+#EXTINF:0,Terra Incognita
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2110W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Travel Channel
+#EXTINF:0,Travel Channel
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3111W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Travel+Adventure HD
+#EXTINF:0,Travel+Adventure HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4112W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat Nature HD
+#EXTINF:0,Viasat Nature HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1113W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Love Nature 4K
+#EXTINF:0,Love Nature 4K
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ075W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+#EXTINF:0,Animal Planet HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3115W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Animal Planet
+#EXTINF:0,Animal Planet
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4116W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat Explore HD
+#EXTINF:0,Viasat Explore HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1117W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",ZooТВ
+#EXTINF:0,ZooТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2118W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Моя Планета HD
+#EXTINF:0,Моя Планета HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3119W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Живая природа
+#EXTINF:0,Живая природа
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4120W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",RTG
+#EXTINF:0,RTG
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1123W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",RTG HD
+#EXTINF:0,RTG HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1121W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Тайны Галактики
+#EXTINF:0,Тайны Галактики
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3123W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Нано HD
+#EXTINF:0,Нано HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4124W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Морской HD
+#EXTINF:0,Морской HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1125W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Ocean-TV
+#EXTINF:0,Ocean-TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2126W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Доктор
+#EXTINF:0,Доктор
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3127W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Приключения HD
+#EXTINF:0,Приключения HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4128W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Дикий
+#EXTINF:0,Дикий
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1129W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Глазами туриста
+#EXTINF:0,Глазами туриста
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2130W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Центральное телевидение
+#EXTINF:0,Центральное телевидение
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4132W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Museum HD
+#EXTINF:0,Museum HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1133W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",myZen.tv HD
+#EXTINF:0,myZen.tv HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2134W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Поехали!
+#EXTINF:0,Поехали!
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3135W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Наука
+#EXTINF:0,Наука
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4136W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Моя планета
+#EXTINF:0,Моя планета
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1137W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Первый космический
+#EXTINF:0,Первый космический
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1138W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Усадьба ТВ
+#EXTINF:0,Усадьба ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2138W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Загородная жизнь HD
+#EXTINF:0,Загородная жизнь HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3139W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Здоровое ТВ
+#EXTINF:0,Здоровое ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4140W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Живая Планета
+#EXTINF:0,Живая Планета
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1141W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Время: далекое и близкое
+#EXTINF:0,Время: далекое и близкое
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2142W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Россия К
+#EXTINF:0,Россия К
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4144W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Большая Азия HD
+#EXTINF:0,Большая Азия HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1145W/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Познавательные",Сочи Live HD
+#EXTINF:0,Сочи Live HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3565W/index.m3u8
-#EXTINF:-1 group-title="Познавательные",DocuBox HD
+#EXTINF:0,DocuBox HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3576W/index.m3u8
-#EXTINF:-1 group-title="Образовательные",English Club HD
+#EXTINF:0,English Club HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3147W/index.m3u8
-#EXTINF:-1 group-title="Образовательные",Первый образовательный
+#EXTINF:0,Первый образовательный
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4148W/index.m3u8
-#EXTINF:-1 group-title="Образовательные",Da Vinci
+#EXTINF:0,Da Vinci
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1149W/index.m3u8
-#EXTINF:-1 group-title="Образовательные",Просвещение
+#EXTINF:0,Просвещение
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2150W/index.m3u8
-#EXTINF:-1 group-title="Мужские",Че!
+#EXTINF:0,Че!
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3151W/index.m3u8
-#EXTINF:-1 group-title="Мужские",Дикая охота HD
+#EXTINF:0,Дикая охота HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1153W/index.m3u8
-#EXTINF:-1 group-title="Мужские",Дикая рыбалка HD
+#EXTINF:0,Дикая рыбалка HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2154W/index.m3u8
-#EXTINF:-1 group-title="Мужские",Охотник и рыболов HD
+#EXTINF:0,Охотник и рыболов HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3155W/index.m3u8
-#EXTINF:-1 group-title="Мужские",Точка отрыва
+#EXTINF:0,Точка отрыва
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4156W/index.m3u8
-#EXTINF:-1 group-title="Мужские",Драйв
+#EXTINF:0,Драйв
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1157W/index.m3u8
-#EXTINF:-1 group-title="Мужские",Оружие
+#EXTINF:0,Оружие
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4160W/index.m3u8
-#EXTINF:-1 group-title="Мужские",Мужской
+#EXTINF:0,Мужской
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1161W/index.m3u8
-#EXTINF:-1 group-title="Мужские",Министерство идей
+#EXTINF:0,Министерство идей
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4164W/index.m3u8
-#EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
+#EXTINF:0,Диалоги о рыбалке
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1165W/index.m3u8
-#EXTINF:-1 group-title="Мужские",Охота и рыбалка
+#EXTINF:0,Охота и рыбалка
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2166W/index.m3u8
-#EXTINF:-1 group-title="Мужские",Арсенал HD
+#EXTINF:0,Арсенал HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4560W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Муз ТВ (+2)
+#EXTINF:0,Муз ТВ (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4304W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Муз ТВ (+4)
+#EXTINF:0,Муз ТВ (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1305W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Домашний (+2)
+#EXTINF:0,Домашний (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3315W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Домашний (+4)
+#EXTINF:0,Домашний (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4316W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Домашний (+7)
+#EXTINF:0,Домашний (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1317W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Звезда (+2)
+#EXTINF:0,Звезда (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2318W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Звезда (+4)
+#EXTINF:0,Звезда (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3319W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Звезда (+7)
+#EXTINF:0,Звезда (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4320W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Карусель (+3)
+#EXTINF:0,Карусель (+3)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1321W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Карусель (+7)
+#EXTINF:0,Карусель (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3323W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Мир (+2)
+#EXTINF:0,Мир (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4324W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Мир (+4)
+#EXTINF:0,Мир (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1325W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Мир (+7)
+#EXTINF:0,Мир (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2326W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ (+2)
+#EXTINF:0,НТВ (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3327W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ (+4)
+#EXTINF:0,НТВ (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4328W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ (+7)
+#EXTINF:0,НТВ (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1329W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал (+1)
+#EXTINF:0,Первый канал (+1)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2330W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал (+2)
+#EXTINF:0,Первый канал (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3331W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал (+4)
+#EXTINF:0,Первый канал (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1333W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал (+6)
+#EXTINF:0,Первый канал (+6)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3335W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал (+7)
+#EXTINF:0,Первый канал (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4336W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",РЕН ТВ (+2)
+#EXTINF:0,РЕН ТВ (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3339W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",РЕН ТВ (+4)
+#EXTINF:0,РЕН ТВ (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4340W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",РЕН ТВ (+7)
+#EXTINF:0,РЕН ТВ (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1341W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 (+1)
+#EXTINF:0,Россия 1 (+1)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2342W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 (+2)
+#EXTINF:0,Россия 1 (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3343W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 (+3)
+#EXTINF:0,Россия 1 (+3)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4344W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 (+4)
+#EXTINF:0,Россия 1 (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1345W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 (+5)
+#EXTINF:0,Россия 1 (+5)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2346W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 (+6)
+#EXTINF:0,Россия 1 (+6)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3347W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 (+7)
+#EXTINF:0,Россия 1 (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4348W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия К (+2)
+#EXTINF:0,Россия К (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3351W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия К (+4)
+#EXTINF:0,Россия К (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4352W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия К (+7)
+#EXTINF:0,Россия К (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1353W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",СТС (+2)
+#EXTINF:0,СТС (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2354W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",СТС (+4)
+#EXTINF:0,СТС (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3355W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",СТС (+7)
+#EXTINF:0,СТС (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4356W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ 3 (+2)
+#EXTINF:0,ТВ 3 (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2362W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ 3 (+4)
+#EXTINF:0,ТВ 3 (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3363W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ 3 (+7)
+#EXTINF:0,ТВ 3 (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4364W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ Центр (+2)
+#EXTINF:0,ТВ Центр (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1365W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ Центр (+4)
+#EXTINF:0,ТВ Центр (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2366W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ Центр (+7)
+#EXTINF:0,ТВ Центр (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3367W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ (+2)
+#EXTINF:0,ТНТ (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4368W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ (+4)
+#EXTINF:0,ТНТ (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1369W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ (+7)
+#EXTINF:0,ТНТ (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2370W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТНТ4 (+2)
+#EXTINF:0,ТНТ4 (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3371W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Че! (+4)
+#EXTINF:0,Че! (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3375W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятый канал (+2)
+#EXTINF:0,Пятый канал (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4380W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятница! (+2)
+#EXTINF:0,Пятница! (+2)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3383W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятница! (+4)
+#EXTINF:0,Пятница! (+4)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4384W/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятница! (+7)
+#EXTINF:0,Пятница! (+7)
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1385W/index.m3u8
-#EXTINF:-1 group-title="Женские",Домашний
+#EXTINF:0,Домашний
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3167W/index.m3u8
-#EXTINF:-1 group-title="Женские",Ю
+#EXTINF:0,Ю
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4168W/index.m3u8
-#EXTINF:-1 group-title="Женские",МАМА
+#EXTINF:0,МАМА
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1169W/index.m3u8
-#EXTINF:-1 group-title="Женские",TLC
+#EXTINF:0,TLC
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2170W/index.m3u8
-#EXTINF:-1 group-title="Женские",World Fashion Channel HD
+#EXTINF:0,World Fashion Channel HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3171W/index.m3u8
-#EXTINF:-1 group-title="Женские",TLC HD
+#EXTINF:0,TLC HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4172W/index.m3u8
-#EXTINF:-1 group-title="Женские",HGTV HD
+#EXTINF:0,HGTV HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3291W/index.m3u8
-#EXTINF:-1 group-title="Женские",Fashion 4К
+#EXTINF:0,Fashion 4К
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3539W/index.m3u8
-#EXTINF:-1 group-title="Кулинарные",Первый Вегетарианский HD
+#EXTINF:0,Первый Вегетарианский HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2174W/index.m3u8
-#EXTINF:-1 group-title="Кулинарные",Food Network HD
+#EXTINF:0,Food Network HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4176W/index.m3u8
-#EXTINF:-1 group-title="Кулинарные",Еда Премиум HD
+#EXTINF:0,Еда Премиум HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1177W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",UFC ТВ
+#EXTINF:0,UFC ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2234W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
+#EXTINF:0,Eurosport 1
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3235W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 2
+#EXTINF:0,Eurosport 2
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4236W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Footboll
+#EXTINF:0,Footboll
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4260W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Конный мир HD
+#EXTINF:0,Конный мир HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2248W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",NHL
+#EXTINF:0,NHL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3249W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",NBA TV
+#EXTINF:0,NBA TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3244W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Хоккейный
+#EXTINF:0,Хоккейный
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3248W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Футбольный
+#EXTINF:0,Футбольный
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3246W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Спортивный
+#EXTINF:0,Спортивный
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3245W/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Viasat Sport
+#EXTINF:0,Viasat Sport
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4248W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Русский экстрим
+#EXTINF:0,Русский экстрим
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1249W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Футбол HD
+#EXTINF:0,Футбол HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2250W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Мир Баскетбола
+#EXTINF:0,Мир Баскетбола
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1330W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Extreme Sports
+#EXTINF:0,Extreme Sports
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3251W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Eleven sports 1
+#EXTINF:0,Eleven sports 1
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4252W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Eleven sports 2
+#EXTINF:0,Eleven sports 2
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1253W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",SuperTennisHD
+#EXTINF:0,SuperTennisHD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1256W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Viasat footboll HD
+#EXTINF:0,Viasat footboll HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1254W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",МоторСпортивные ТВ
+#EXTINF:0,МоторСпортивные ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2254W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",СТАРТ
+#EXTINF:0,СТАРТ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4256W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Viasat Sport HD
+#EXTINF:0,Viasat Sport HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1261W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Fuel TV HD
+#EXTINF:0,Fuel TV HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2262W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Sky F1 UK
+#EXTINF:0,Sky F1 UK
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2263W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Russian Extreme Ultra HD
+#EXTINF:0,Russian Extreme Ultra HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3263W/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Golf TV HD
+#EXTINF:0,Golf TV HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1265W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Белaрусь5 канал
+#EXTINF:0,Белaрусь5 канал
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1266W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",DIGI Sport 1 HD RO
+#EXTINF:0,DIGI Sport 1 HD RO
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO014S/index.m3u8
-#EXTINF:-1 group-title="Спортивные",DIGI Sport 2 HD RO
+#EXTINF:0,DIGI Sport 2 HD RO
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO015S/index.m3u8
-#EXTINF:-1 group-title="Спортивные",DIGI Sport 3 HD RO
+#EXTINF:0,DIGI Sport 3 HD RO
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO016S/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Bein Sports 1 HD FR
+#EXTINF:0,Bein Sports 1 HD FR
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO017S/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Bein Sports 2 HD FR
+#EXTINF:0,Bein Sports 2 HD FR
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO018S/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Bein Sports 3 HD FR
+#EXTINF:0,Bein Sports 3 HD FR
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO019S/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Setanta Sports 2
+#EXTINF:0,Setanta Sports 2
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO020S/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Setanta Qazaqstan HD
+#EXTINF:0,Setanta Qazaqstan HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3534W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Setanta Sports Ukraine HD
+#EXTINF:0,Setanta Sports Ukraine HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO022S/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Setanta Sports Ukraine HD plus
+#EXTINF:0,Setanta Sports Ukraine HD plus
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3564W/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Setanta Sports HD
+#EXTINF:0,Setanta Sports HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO023S/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",ТНТ Music
+#EXTINF:0,ТНТ Music
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2266W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Russian MusicBox HD
+#EXTINF:0,Russian MusicBox HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3267W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",MusicBox
+#EXTINF:0,MusicBox
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4268W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Clubbing TV HD
+#EXTINF:0,Clubbing TV HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1269W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",RU.TV HD
+#EXTINF:0,RU.TV HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2270W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",О2ТВ HD
+#EXTINF:0,О2ТВ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3271W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Шансон-ТВ
+#EXTINF:0,Шансон-ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4272W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV 00s
+#EXTINF:0,MTV 00s
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2274W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Жара HD
+#EXTINF:0,Жара HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4276W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV
+#EXTINF:0,MTV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1277W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV HD
+#EXTINF:0,MTV HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2278W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Жар Птица
+#EXTINF:0,Жар Птица
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4280W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",MCM TOP
+#EXTINF:0,MCM TOP
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1281W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",iConcerts HD
+#EXTINF:0,iConcerts HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2282W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Bridge TV
+#EXTINF:0,Bridge TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3283W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Европа Плюс ТВ
+#EXTINF:0,Европа Плюс ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4284W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV Hits
+#EXTINF:0,MTV Hits
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2286W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV Rocks
+#EXTINF:0,MTV Rocks
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3287W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV 80s
+#EXTINF:0,MTV 80s
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4288W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Mezzo
+#EXTINF:0,Mezzo
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1289W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Bridge TV Русский хит
+#EXTINF:0,Bridge TV Русский хит
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2290W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Bridge TV Hits
+#EXTINF:0,Bridge TV Hits
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4292W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Bridge TV Classic
+#EXTINF:0,Bridge TV Classic
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1293W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Bridge TV Deluxe
+#EXTINF:0,Bridge TV Deluxe
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA2294W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",1HD Music Television
+#EXTINF:0,1HD Music Television
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3295W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",AIVA
+#EXTINF:0,AIVA
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4296W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV Live HD
+#EXTINF:0,MTV Live HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA4300W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Mezzo Live HD
+#EXTINF:0,Mezzo Live HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1301W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",9 волна
+#EXTINF:0,9 волна
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA1302W/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Муз ТВ
+#EXTINF:0,Муз ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA3303W/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="HighQuality",Nat Geo Wild HD 50 Кд/c
+#EXTINF:0,Nat Geo Wild HD 50 Кд/c
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ007W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",National Geographic HD 50 Кд/c
+#EXTINF:0,National Geographic HD 50 Кд/c
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ008W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",ТНТ HD 50 Кд/c
+#EXTINF:0,ТНТ HD 50 Кд/c
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ009W/index.m3u8
-
-#EXTINF:-1 group-title="HighQuality",Премиальное HD 50 кд/с
+#EXTINF:0,Премиальное HD 50 кд/с
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ011W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",СТС HD
+#EXTINF:0,СТС HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ012W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Шокирующее HD
+#EXTINF:0,Шокирующее HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ013W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Комедийное HD
+#EXTINF:0,Комедийное HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ014W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Премиальное HD
+#EXTINF:0,Премиальное HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ015W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Остросюжетное HD
+#EXTINF:0,Остросюжетное HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ016W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Дом кино Премиум HD
+#EXTINF:0,Дом кино Премиум HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ017W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Hollywood HD
+#EXTINF:0,Hollywood HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ018W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",FOX HD
+#EXTINF:0,FOX HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ019W/index.m3u8
-
-#EXTINF:-1 group-title="HighQuality",Amedia premium HD
+#EXTINF:0,Amedia premium HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ021W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",A2 HD
+#EXTINF:0,A2 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ022W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",ViP Serial HD
+#EXTINF:0,ViP Serial HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ023W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",ViP Comedy HD
+#EXTINF:0,ViP Comedy HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ024W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",ViP Megahit
+#EXTINF:0,ViP Megahit
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ025W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",ViP Premiere
+#EXTINF:0,ViP Premiere
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ026W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Дорама HD
+#EXTINF:0,Дорама HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ027W/index.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="HighQuality",Sony Chanel HD
+#EXTINF:0,Sony Chanel HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ033W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Русский роман HD
+#EXTINF:0,Русский роман HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ034W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Кино ТВ HD
+#EXTINF:0,Кино ТВ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ035W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Paramount Channel HD
+#EXTINF:0,Paramount Channel HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ036W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",TV1000 Action HD
+#EXTINF:0,TV1000 Action HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ037W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",TV1000 HD
+#EXTINF:0,TV1000 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ038W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",TV1000 Русское HD
+#EXTINF:0,TV1000 Русское HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ039W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Amedia Hit HD
+#EXTINF:0,Amedia Hit HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ040W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Иллюзион+ HD
+#EXTINF:0,Иллюзион+ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ041W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Русский иллюзион HD
+#EXTINF:0,Русский иллюзион HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ042W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Наш Кинопоказ HD
+#EXTINF:0,Наш Кинопоказ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ043W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Блокбастер HD
+#EXTINF:0,Блокбастер HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ044W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Наше Мужское HD
+#EXTINF:0,Наше Мужское HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ045W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Про Любовь HD
+#EXTINF:0,Про Любовь HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ046W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Хит HD
+#EXTINF:0,Хит HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ047W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Камеди HD
+#EXTINF:0,Камеди HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ048W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Кинопоказ HD
+#EXTINF:0,Кинопоказ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ049W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Discovery HD
+#EXTINF:0,Discovery HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ050W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",H2 HD
+#EXTINF:0,H2 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ051W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Animal Planet HD
+#EXTINF:0,Animal Planet HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ052W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Travel+Adventure HD
+#EXTINF:0,Travel+Adventure HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ053W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",RTG HD
+#EXTINF:0,RTG HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ054W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",TLC HD
+#EXTINF:0,TLC HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ055W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Travel Channel HD
+#EXTINF:0,Travel Channel HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ056W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Viasat Nature/History HD
+#EXTINF:0,Viasat Nature/History HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ057W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Живая природа HD
+#EXTINF:0,Живая природа HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ058W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Охотник и Рыболов HD
+#EXTINF:0,Охотник и Рыболов HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ059W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Viasat History HD
+#EXTINF:0,Viasat History HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ060W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Глазами туриста HD
+#EXTINF:0,Глазами туриста HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ061W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Дикая охота HD
+#EXTINF:0,Дикая охота HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ062W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Дикая рыбалка HD
+#EXTINF:0,Дикая рыбалка HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ063W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Наука HD
+#EXTINF:0,Наука HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ064W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",History HD
+#EXTINF:0,History HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ065W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Viasat Explore HD
+#EXTINF:0,Viasat Explore HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ066W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Discovery Science HD
+#EXTINF:0,Discovery Science HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ067W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Страшное HD
+#EXTINF:0,Страшное HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ070W/index.m3u8
-
-#EXTINF:-1 group-title="HighQuality",Discovery Ultra 4K
+#EXTINF:0,Discovery Ultra 4K
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ073W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Home 4K
+#EXTINF:0,Home 4K
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ074W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Love Nature 4K
+#EXTINF:0,Love Nature 4K
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ075W/index.m3u8
-#EXTINF:-1 group-title="HighQuality",Ultra HD Cinema 4K
+#EXTINF:0,Ultra HD Cinema 4K
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/HQ076W/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport Austria 1 HD DE
+#EXTINF:0,Sky Sport Austria 1 HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO001D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport Bundesliga 1 HD DE
+#EXTINF:0,Sky Sport Bundesliga 1 HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO002D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport 1 HD DE
+#EXTINF:0,Sky Sport 1 HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO003D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport 2 HD DE
+#EXTINF:0,Sky Sport 2 HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO004D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport News HD DE
+#EXTINF:0,Sky Sport News HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO005D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Hits HD DE
+#EXTINF:0,Sky Hits HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO006D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Arts HD DE
+#EXTINF:0,Sky Arts HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO007D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Cinema Comic-Helden DE
+#EXTINF:0,Sky Cinema Comic-Helden DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO008D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Krimi DE
+#EXTINF:0,Sky Krimi DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO009D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Cinema Nostalgie DE
+#EXTINF:0,Sky Cinema Nostalgie DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO010D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Cinema Family HD DE
+#EXTINF:0,Sky Cinema Family HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO011D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Cinema HD DE
+#EXTINF:0,Sky Cinema HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO012D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Cinema Action HD DE
+#EXTINF:0,Sky Cinema Action HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO013D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Atlantic HD DE
+#EXTINF:0,Sky Atlantic HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO014D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Cinema Comedy DE
+#EXTINF:0,Sky Cinema Comedy DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO015D/index.m3u8
-#EXTINF:-1 group-title="Германия",Disney Cinemagic HD DE
+#EXTINF:0,Disney Cinemagic HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO016D/index.m3u8
-#EXTINF:-1 group-title="Германия",Spiegel Geschichte HD DE
+#EXTINF:0,Spiegel Geschichte HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO017D/index.m3u8
-#EXTINF:-1 group-title="Германия",TNT Film HD DE
+#EXTINF:0,TNT Film HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO018D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Cinema Thriller HD DE
+#EXTINF:0,Sky Cinema Thriller HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO019D/index.m3u8
-#EXTINF:-1 group-title="Германия",RTL Passion HD DE
+#EXTINF:0,RTL Passion HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO020D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Romance TV FHD DE
+#EXTINF:0,Sky Romance TV FHD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO021D/index.m3u8
-#EXTINF:-1 group-title="Германия",NatGeo HD DE
+#EXTINF:0,NatGeo HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO022D/index.m3u8
-#EXTINF:-1 group-title="Германия",Nat Geo Wild HD DE
+#EXTINF:0,Nat Geo Wild HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO023D/index.m3u8
-#EXTINF:-1 group-title="Германия",Animal Planet HD DE
+#EXTINF:0,Animal Planet HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO024D/index.m3u8
-#EXTINF:-1 group-title="Германия",Nick Jr. DE
+#EXTINF:0,Nick Jr. DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO025D/index.m3u8
-#EXTINF:-1 group-title="Германия",WELT HD DE
+#EXTINF:0,WELT HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO026D/index.m3u8
-#EXTINF:-1 group-title="Германия",N-TV HD DE
+#EXTINF:0,N-TV HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO027D/index.m3u8
-#EXTINF:-1 group-title="Германия",Motorvision TV DE
+#EXTINF:0,Motorvision TV DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO028D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Racing AU
+#EXTINF:0,Sky Racing AU
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO029D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport Austria 2 DE
+#EXTINF:0,Sky Sport Austria 2 DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO030D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport Bundesliga 9 DE
+#EXTINF:0,Sky Sport Bundesliga 9 DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO031D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport Bundesliga 2 HD DE
+#EXTINF:0,Sky Sport Bundesliga 2 HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO032D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport Bundesliga 3 HD DE
+#EXTINF:0,Sky Sport Bundesliga 3 HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO033D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport Bundesliga 4 HD DE
+#EXTINF:0,Sky Sport Bundesliga 4 HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO034D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport Bundesliga 6 HD DE
+#EXTINF:0,Sky Sport Bundesliga 6 HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO035D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport Bundesliga 7 HD DE
+#EXTINF:0,Sky Sport Bundesliga 7 HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO036D/index.m3u8
-#EXTINF:-1 group-title="Германия",Sky Sport Bundesliga 8 HD DE
+#EXTINF:0,Sky Sport Bundesliga 8 HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO037D/index.m3u8
-#EXTINF:-1 group-title="Германия",Comedy Central HD DE
+#EXTINF:0,Comedy Central HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO038D/index.m3u8
-#EXTINF:-1 group-title="Германия",Kabel Eins HD DE
+#EXTINF:0,Kabel Eins HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO039D/index.m3u8
-#EXTINF:-1 group-title="Германия",ProSieben HD DE
+#EXTINF:0,ProSieben HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO040D/index.m3u8
-#EXTINF:-1 group-title="Германия",ProSieben Maxx HD DE
+#EXTINF:0,ProSieben Maxx HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO041D/index.m3u8
-#EXTINF:-1 group-title="Германия",TNT Comedy HD DE
+#EXTINF:0,TNT Comedy HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO042D/index.m3u8
-#EXTINF:-1 group-title="Германия",TNT Serie HD DE
+#EXTINF:0,TNT Serie HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO043D/index.m3u8
-#EXTINF:-1 group-title="Германия",Universal TV HD DE
+#EXTINF:0,Universal TV HD DE
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO044D/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",5 канал UA
+#EXTINF:0,5 канал UA
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF001U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",FilmBox
+#EXTINF:0,FilmBox
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF002U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",24 Канал
+#EXTINF:0,24 Канал
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF003U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Lale
+#EXTINF:0,Lale
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF004U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Перший Захiдний
+#EXTINF:0,Перший Захiдний
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF005U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",UA:ЛЬВIВ
+#EXTINF:0,UA:ЛЬВIВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF006U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",BBB TV
+#EXTINF:0,BBB TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF007U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Центральный канал
+#EXTINF:0,Центральный канал
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF008U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",112 Україна
+#EXTINF:0,112 Україна
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF009U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",EU Music
+#EXTINF:0,EU Music
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF010U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Еспресо TV
+#EXTINF:0,Еспресо TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF011U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Мега
+#EXTINF:0,Мега
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF012U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",К2
+#EXTINF:0,К2
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF013U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",К1
+#EXTINF:0,К1
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF014U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Квартал ТВ
+#EXTINF:0,Квартал ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF015U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Enter-фільм
+#EXTINF:0,Enter-фільм
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF016U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Новий Канал
+#EXTINF:0,Новий Канал
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF017U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",НТН
+#EXTINF:0,НТН
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF018U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Інтер
+#EXTINF:0,Інтер
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF019U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Пiксель ТВ
+#EXTINF:0,Пiксель ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF020U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",ID Fashion
+#EXTINF:0,ID Fashion
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF021U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Культура
+#EXTINF:0,Культура
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF022U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Телевсесвiт
+#EXTINF:0,Телевсесвiт
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF023U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Медiаiнформ
+#EXTINF:0,Медiаiнформ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF024U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Skrypin.UA
+#EXTINF:0,Skrypin.UA
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF025U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",4ever Music
+#EXTINF:0,4ever Music
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF027U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Глас
+#EXTINF:0,Глас
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF028U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Правда ТУТ
+#EXTINF:0,Правда ТУТ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF029U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Тернопіль 1
+#EXTINF:0,Тернопіль 1
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF030U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",MAXXI TV
+#EXTINF:0,MAXXI TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF031U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Южная волна
+#EXTINF:0,Южная волна
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF032U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Первый городской
+#EXTINF:0,Первый городской
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF033U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",СК1
+#EXTINF:0,СК1
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF034U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Перший дiловий
+#EXTINF:0,Перший дiловий
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF035U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Громадське
+#EXTINF:0,Громадське
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF036U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",BOLT
+#EXTINF:0,BOLT
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF037U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",UA:Перший
+#EXTINF:0,UA:Перший
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF039U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",MostVideo.TV
+#EXTINF:0,MostVideo.TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF041U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",OBOZ TV
+#EXTINF:0,OBOZ TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF042U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",TV5
+#EXTINF:0,TV5
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF043U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Інтер+
+#EXTINF:0,Інтер+
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF045U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",O-TV
+#EXTINF:0,O-TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF046U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Телеканал Рибалка
+#EXTINF:0,Телеканал Рибалка
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF047U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",UKRAINE 1
+#EXTINF:0,UKRAINE 1
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF049U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Бiгудi
+#EXTINF:0,Бiгудi
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF050U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",НТА
+#EXTINF:0,НТА
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF051U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",ТВА
+#EXTINF:0,ТВА
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF052U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Вiнтаж ТВ
+#EXTINF:0,Вiнтаж ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF053U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",ZOOM
+#EXTINF:0,ZOOM
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF054U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Малятко ТВ
+#EXTINF:0,Малятко ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF055U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Галичина
+#EXTINF:0,Галичина
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF056U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Еко TV
+#EXTINF:0,Еко TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF057U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",ZIK HD
+#EXTINF:0,ZIK HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF058U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Україна
+#EXTINF:0,Україна
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF061U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Сонце
+#EXTINF:0,Сонце
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF063U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",NLO TV2
+#EXTINF:0,NLO TV2
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF064U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Прямий HD
+#EXTINF:0,Прямий HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF065U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",КРТ
+#EXTINF:0,КРТ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF066U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Ескулап TV
+#EXTINF:0,Ескулап TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF067U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",УНІАН
+#EXTINF:0,УНІАН
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF068U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",36.6 TV
+#EXTINF:0,36.6 TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF070U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Milady Television
+#EXTINF:0,Milady Television
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF071U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",BOUTIQUE TV
+#EXTINF:0,BOUTIQUE TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF072U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",NLO TV1
+#EXTINF:0,NLO TV1
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF073U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",7 канал
+#EXTINF:0,7 канал
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF074U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Music Box UA HD
+#EXTINF:0,Music Box UA HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF075U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Чернiвцi
+#EXTINF:0,Чернiвцi
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF078U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",24 Канал HD
+#EXTINF:0,24 Канал HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF079U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Vintage TV
+#EXTINF:0,Vintage TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF080U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",ICTV
+#EXTINF:0,ICTV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF081U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",СТБ
+#EXTINF:0,СТБ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF082U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Интер
+#EXTINF:0,Интер
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF083U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",XSPORT
+#EXTINF:0,XSPORT
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF084U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Кус Кус HD
+#EXTINF:0,Кус Кус HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF085U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",НЛО ТВ HD
+#EXTINF:0,НЛО ТВ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF086U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Индиго ТВ HD
+#EXTINF:0,Индиго ТВ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF087U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",ОЦЕ HD
+#EXTINF:0,ОЦЕ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF088U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",UA:Перший HD
+#EXTINF:0,UA:Перший HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF089U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",ТЕТ HD
+#EXTINF:0,ТЕТ HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF090U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",2+2 HD
+#EXTINF:0,2+2 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF091U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",1+1 HD
+#EXTINF:0,1+1 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF092U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",ПлюсПлюс HD
+#EXTINF:0,ПлюсПлюс HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF093U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Пиксель
+#EXTINF:0,Пиксель
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF095U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Спорт-1
+#EXTINF:0,Спорт-1
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF096U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Спорт-2
+#EXTINF:0,Спорт-2
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF097U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",112 Украина HD
+#EXTINF:0,112 Украина HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF098U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Эспресо ТВ
+#EXTINF:0,Эспресо ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF102U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Болт HD
+#EXTINF:0,Болт HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF103U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Lale HD
+#EXTINF:0,Lale HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF104U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Star Cinema HD
+#EXTINF:0,Star Cinema HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF106U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Star Family HD
+#EXTINF:0,Star Family HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF107U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",8 канал HD
+#EXTINF:0,8 канал HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF108U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",4 канал HD
+#EXTINF:0,4 канал HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF109U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",NIKI Kids HD
+#EXTINF:0,NIKI Kids HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF113U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",NIKI Junior HD
+#EXTINF:0,NIKI Junior HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF114U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",М1 HD
+#EXTINF:0,М1 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF115U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",М2 HD
+#EXTINF:0,М2 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF116U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",PRO Все
+#EXTINF:0,PRO Все
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF117U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Lale
+#EXTINF:0,Lale
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF118U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Максi ТВ
+#EXTINF:0,Максi ТВ
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF119U/index.m3u8
-#EXTINF:-1 group-title="Украина | Ukraine",Новий канал
+#EXTINF:0,Новий канал
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF121U/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Рен ТВ MD
+#EXTINF:0,Рен ТВ MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF001MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Prime 1 MD
+#EXTINF:0,Prime 1 MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF002MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Canal 3
+#EXTINF:0,Canal 3
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF003MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Publika TV
+#EXTINF:0,Publika TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF004MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Moldova 1 HD MD
+#EXTINF:0,Moldova 1 HD MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF005MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Moldova 2
+#EXTINF:0,Moldova 2
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF006MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",RTR Moldova
+#EXTINF:0,RTR Moldova
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF007MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",N4 MD
+#EXTINF:0,N4 MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF008MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Orhei TV
+#EXTINF:0,Orhei TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF009MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",PRIMUL
+#EXTINF:0,PRIMUL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF010MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Accent TV
+#EXTINF:0,Accent TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF011MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",ITV Moldova
+#EXTINF:0,ITV Moldova
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF012MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",СТС Mega MD
+#EXTINF:0,СТС Mega MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF013MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",TVR1 HD
+#EXTINF:0,TVR1 HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF014MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",MBC MD
+#EXTINF:0,MBC MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF015MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",GOLD TV MD
+#EXTINF:0,GOLD TV MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF016MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Noroc TV
+#EXTINF:0,Noroc TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF017MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",AXIAL TV
+#EXTINF:0,AXIAL TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF018MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Jurnal TV
+#EXTINF:0,Jurnal TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF019MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Canal 2 MD
+#EXTINF:0,Canal 2 MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF020MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",TV8 MD
+#EXTINF:0,TV8 MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF021MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",ProTV Chisinau
+#EXTINF:0,ProTV Chisinau
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF022MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",NTV MD
+#EXTINF:0,NTV MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF023MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",TVC 21 MD
+#EXTINF:0,TVC 21 MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF024MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",ТНТ Exclusiv TV
+#EXTINF:0,ТНТ Exclusiv TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF025MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",TVR 1 MD
+#EXTINF:0,TVR 1 MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF026MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",10 TV MD
+#EXTINF:0,10 TV MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF027MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Minimax MD
+#EXTINF:0,Minimax MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF028MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Gurinel TV
+#EXTINF:0,Gurinel TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF029MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Zona M MD
+#EXTINF:0,Zona M MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF030MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",UTV MD
+#EXTINF:0,UTV MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF031MD/index.m3u8
-#EXTINF:-1 group-title="Молдавия",Jurnal TV HD MD
+#EXTINF:0,Jurnal TV HD MD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF032MD/index.m3u8
-#EXTINF:-1 group-title="Польша",CANAL+ Sport 2 HD PL
+#EXTINF:0,CANAL+ Sport 2 HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF001PL/index.m3u8
-#EXTINF:-1 group-title="Польша",FOX COMEDY HD PL
+#EXTINF:0,FOX COMEDY HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF002PL/index.m3u8
-#EXTINF:-1 group-title="Польша",Canal+ Sport FHD PL
+#EXTINF:0,Canal+ Sport FHD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF003PL/index.m3u8
-#EXTINF:-1 group-title="Польша",Canal+ Film HD PL
+#EXTINF:0,Canal+ Film HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF004PL/index.m3u8
-#EXTINF:-1 group-title="Польша",Canal+ FHD PL
+#EXTINF:0,Canal+ FHD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF005PL/index.m3u8
-#EXTINF:-1 group-title="Польша",CANAL+ FAMILY HD PL
+#EXTINF:0,CANAL+ FAMILY HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF006PL/index.m3u8
-#EXTINF:-1 group-title="Польша",Canal + Seriale FHD PL
+#EXTINF:0,Canal + Seriale FHD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF007PL/index.m3u8
-#EXTINF:-1 group-title="Польша",Canal Discovery HD PL
+#EXTINF:0,Canal Discovery HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF008PL/index.m3u8
-#EXTINF:-1 group-title="Польша",Canal+ Discovery FHD PL
+#EXTINF:0,Canal+ Discovery FHD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF009PL/index.m3u8
-#EXTINF:-1 group-title="Польша",SUPER POLSAT HD PL
+#EXTINF:0,SUPER POLSAT HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF010PL/index.m3u8
-#EXTINF:-1 group-title="Польша",Kino Polska HD PL
+#EXTINF:0,Kino Polska HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF011PL/index.m3u8
-#EXTINF:-1 group-title="Польша",FOX HD PL
+#EXTINF:0,FOX HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF012PL/index.m3u8
-#EXTINF:-1 group-title="Польша",nSport+ PL
+#EXTINF:0,nSport+ PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF013PL/index.m3u8
-#EXTINF:-1 group-title="Польша",TVP Sport HD PL
+#EXTINF:0,TVP Sport HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF014PL/index.m3u8
-#EXTINF:-1 group-title="Польша",Sportklub HD PL
+#EXTINF:0,Sportklub HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF015PL/index.m3u8
-#EXTINF:-1 group-title="Польша",TVP Info
+#EXTINF:0,TVP Info
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF016PL/index.m3u8
-#EXTINF:-1 group-title="Польша",Polsat Play HD PL
+#EXTINF:0,Polsat Play HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF017PL/index.m3u8
-#EXTINF:-1 group-title="Польша",Polsat Film HD PL
+#EXTINF:0,Polsat Film HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF018PL/index.m3u8
-#EXTINF:-1 group-title="Польша",Polsat Cafe HD PL
+#EXTINF:0,Polsat Cafe HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF019PL/index.m3u8
-#EXTINF:-1 group-title="Польша",Polsat 2 HD PL
+#EXTINF:0,Polsat 2 HD PL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DF020PL/index.m3u8
-#EXTINF:-1 group-title="XXX",Private TV
+#EXTINF:0,Private TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO001X/index.m3u8
-#EXTINF:-1 group-title="XXX",Hustler HD Europe
+#EXTINF:0,Hustler HD Europe
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO002X/index.m3u8
-#EXTINF:-1 group-title="XXX",Dorcel TV HD
+#EXTINF:0,Dorcel TV HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO003X/index.m3u8
-#EXTINF:-1 group-title="XXX",Exxxotica HD
+#EXTINF:0,Exxxotica HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO004X/index.m3u8
-#EXTINF:-1 group-title="XXX",Vivid Red HD
+#EXTINF:0,Vivid Red HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO005X/index.m3u8
-#EXTINF:-1 group-title="XXX",XXL
+#EXTINF:0,XXL
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO006X/index.m3u8
-#EXTINF:-1 group-title="XXX",Penthouse Gold HD
+#EXTINF:0,Penthouse Gold HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO007X/index.m3u8
-#EXTINF:-1 group-title="XXX",Penthouse Quickies HD
+#EXTINF:0,Penthouse Quickies HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO026X/index.m3u8
-#EXTINF:-1 group-title="XXX",KinoXXX
+#EXTINF:0,KinoXXX
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO027X/index.m3u8
-#EXTINF:-1 group-title="XXX",Redlight HD
+#EXTINF:0,Redlight HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO028X/index.m3u8
-#EXTINF:-1 group-title="XXX",Possition XXX
+#EXTINF:0,Possition XXX
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO029X/index.m3u8
-#EXTINF:-1 group-title="XXX",Adult Time
+#EXTINF:0,Adult Time
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO008X/index.m3u8
-#EXTINF:-1 group-title="XXX",Babes HD
+#EXTINF:0,Babes HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO009X/index.m3u8
-#EXTINF:-1 group-title="XXX",Brazzers eXXtra
+#EXTINF:0,Brazzers eXXtra
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO010X/index.m3u8
-#EXTINF:-1 group-title="XXX",Brazzers HD
+#EXTINF:0,Brazzers HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO011X/index.m3u8
-#EXTINF:-1 group-title="XXX",Daughter Swap
+#EXTINF:0,Daughter Swap
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO012X/index.m3u8
-#EXTINF:-1 group-title="XXX",Exotic4k
+#EXTINF:0,Exotic4k
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO013X/index.m3u8
-#EXTINF:-1 group-title="XXX",DDF Network
+#EXTINF:0,DDF Network
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO014X/index.m3u8
-#EXTINF:-1 group-title="XXX",Digital Desire HD
+#EXTINF:0,Digital Desire HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO015X/index.m3u8
-#EXTINF:-1 group-title="XXX",Digital Playground HD
+#EXTINF:0,Digital Playground HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO016X/index.m3u8
-#EXTINF:-1 group-title="XXX",Dorcel Club
+#EXTINF:0,Dorcel Club
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO017X/index.m3u8
-#EXTINF:-1 group-title="XXX",Naughty America
+#EXTINF:0,Naughty America
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO018X/index.m3u8
-#EXTINF:-1 group-title="XXX",Nubiles TV HD
+#EXTINF:0,Nubiles TV HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO019X/index.m3u8
-#EXTINF:-1 group-title="XXX",Russian Adult TV
+#EXTINF:0,Russian Adult TV
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO020X/index.m3u8
-#EXTINF:-1 group-title="XXX",Wicked
+#EXTINF:0,Wicked
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO021X/index.m3u8
-#EXTINF:-1 group-title="XXX",HOT
+#EXTINF:0,HOT
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO022X/index.m3u8
-#EXTINF:-1 group-title="XXX",HOT XXL HD
+#EXTINF:0,HOT XXL HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO023X/index.m3u8
-#EXTINF:-1 group-title="XXX",Extasy4k
+#EXTINF:0,Extasy4k
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO024X/index.m3u8
-#EXTINF:-1 group-title="XXX",SuperOne HD
+#EXTINF:0,SuperOne HD
 http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/DO025X/index.m3u8
