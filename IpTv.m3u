@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 group-title="Эфирные",Первый канал
+http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA22W/index.m3u8
+#EXTINF:-1 group-title="Эфирные",Россия 1
+http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA44W/index.m3u8
+#EXTINF:-1 group-title="Эфирные",НТВ
+http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA26W/index.m3u8
+#EXTINF:-1 group-title="Эфирные",РЕН ТВ
+http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA48W/index.m3u8
+#EXTINF:-1 group-title="Эфирные",Мир
+http://cdn.ottpro.ru/iptv/C0516EE4FBF17C7/AA19W/index.m3u8
