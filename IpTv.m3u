@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" catchup="append"
-
+#EXTM3U
 #EXTGRP:🇷🇺 Эфирные
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
